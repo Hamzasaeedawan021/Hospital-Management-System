@@ -1,4 +1,4 @@
- Hospital Management System 
+ Hospital Management System :
 
   Project Overview
    A comprehensive Hospital Management System database designed to streamline healthcare operations. This system manages:
